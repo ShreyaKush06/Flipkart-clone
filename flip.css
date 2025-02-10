@@ -1,0 +1,273 @@
+body{
+    width: 100vw;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+     margin:0px; 
+    border:border box;
+
+    
+
+}
+.navbar {
+   
+    height:67px;
+    display:flex;
+    align-items: center;
+    margin-right: 40px;
+    justify-content: space-evenly;
+    background-color: white;
+
+    
+
+}
+
+}
+.navlogo {
+    height:40px;
+    width:160px;
+    align-self: right;
+}
+.logo {
+    background-image: url("https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/images/fkheaderlogo_exploreplus-44005d.svg");
+    height:40px;
+    width:100%
+    background-size: cover;
+   
+}
+.navsearch {
+    display:flex;
+   
+   
+   
+    
+
+}
+.search {
+    
+    background-color: rgb(175, 243, 218);
+    align-content:center;
+    border-color: none;
+    border: none;
+}
+.search2{
+
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+    border: none;
+    background-color: #F5F5F5;
+    width: 44px;
+    height:46px;
+    align-items: center;
+}
+.navlogin {
+    display:flex;
+    align-content: center;
+    justify-items: space-evenly;
+}
+.login{
+    display:flex;
+    margin-right: 10px;
+}
+.main-image{
+    display:flex;
+    margin-right: 10px;
+    overflow: hidden;
+    max-width: 93.5%;
+    height: auto;
+
+    
+}
+.image{
+    display:flex;
+    margin-right: 10px;
+    overflow: hidden;
+    width: fit-content;
+}
+.account{
+    margin-right: 10px;
+}
+.bold {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+     
+    border-width:0;box-sizing:border-box;
+    display:inline;white-space:nowrap;
+    overflow-wrap:break-word;
+    text-align:center;
+    max-width:100%;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    word-wrap:normal;
+
+    
+}
+.speakers {
+    align-items: center;
+}
+.text1{
+    
+    letter-spacing: normal;
+    word-spacing: normal;
+    margin-top: 5px;;
+    display:inline;
+    white-space:nowrap;
+    overflow-wrap:break-word;
+    text-align:center;
+    max-width:100%;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    word-wrap:normal;
+}
+
+.electronics {
+    display:flex;
+    align-items: center;
+    justify-content:space-evenly;
+    text-align: center;
+    background-color: white;
+
+    
+
+
+     
+}
+.box {
+    border: solid;
+    border-color: rgb(160, 160, 160);
+    background-color: white;
+    padding:25px 15px;
+    margin-top: 10px;
+    
+   
+}
+.img{
+ margin: auto; display: block; object-fit: contain; opacity: 1; aspect-ratio: 1 / 1;
+}
+.elec1 {
+    background-color: rgb(193, 238, 223);
+}
+
+
+.third{
+
+    display:flex;
+       
+       justify-content:space-evenly;
+     
+   }
+   .all{  
+       margin:0;
+           display:flex;
+           flex-direction: row;
+           white-space: nowrap;
+       }
+      .items{
+       font-weight: 500;
+   font-size: 24px;
+      }
+      .text
+      {
+    margin:0px;
+       width:10px;
+      }
+       
+     .t1{
+         cursor:pointer;
+   
+     }
+           
+       .t1:hover{
+            color: blue;
+   
+         }
+         .symbols:hover{
+           color:blue;
+         }
+        .menu strong{
+            margin-bottom: 20px;
+        }
+        
+       
+       .images{
+           display:flex;
+                   flex-direction:row;
+   
+                      margin-right: 100px;
+                     justify-content: space-between;
+                     width: fit-content ;
+   
+       }
+       .first{
+           border: 0px;
+           margin-top: 0;
+            width: 75px;
+   
+          
+       }
+       div{ 
+   
+       justify-content: space-between;
+       margin-right:30px;
+      
+       }
+       .all{  
+           margin:0;
+              
+    
+           }
+          .items{
+           font-weight: 500;
+       font-size: 24px;
+          }
+          .text
+          {
+        margin:0px;
+           width:10px;
+          }
+           
+           
+           .intro-button1 button{
+               position:absolute;
+               top: 290px;
+               padding-left: 20px;
+               padding-right: 20px;
+               padding-top: 50px;
+               padding-bottom: 50px;
+           }
+               .intro-button2 button{
+                position: absolute;
+                top: 290px;
+                left:1455px; 
+                padding-left: 20px;
+                padding-right: 20px;
+                padding-top: 50px;
+                padding-bottom: 50px;
+                    }
+           
+          
+              
+           
+           div{
+   
+           justify-content: space-between;
+           margin-right:50px;
+          width:fit-content;
+           }
+           
+    .ticket{
+        object-fit: contain;
+    }
+   
+.box1{
+    
+    display:flex;
+    
+}
+
+.third {
+    display:flex;
+}
+footer{
+    background-color: #F5F5F5;
+}
